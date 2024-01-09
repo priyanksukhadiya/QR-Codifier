@@ -1,0 +1,101 @@
+﻿@font-face {
+  font-family: 'Bakbak One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/bakbakone/v8/zOL54pXAl6RI-p_ardnuycQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_chQF5e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QF5e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQF5e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_ehR15e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_eYR15e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_f_R15e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(s/figtree/v5/_Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR15e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Flow Block';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/flowblock/v11/wlp0gwfPCEB65UmTk-d6-WY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Flow Circular';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/flowcircular/v11/lJwB-pc4j2F-H8YKuyvfxdZ45ic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Flow Rounded';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/flowrounded/v11/-zki91mtwsU9qlLiGwD4oQX3oQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 300;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nESkQPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nFMkQPI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Radio Canada';
+  font-style: normal;
+  font-weight: 600;
+  font-stretch: normal;
+  font-display: swap;
+  src: url(s/radiocanada/v21/XRX13ISXn0dBMcibU6jlAqr3ejLv5OLZYiYXik6db2P4jxxlsls-0nGSlgPI.ttf) format('truetype');
+}
